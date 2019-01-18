@@ -1,5 +1,5 @@
 {
-  "name": "filetree-nodejs",
+  "name": "filetree-nodejs-ontech",
   "version": "1.0.0",
   "description": "",
   "main": "./src/index.js",
@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/claudiohilario/filetree-nodejs.git"
+    "url": "git+https://github.com/claudiohilario/filetree-nodejs-ontech.git"
   },
   "keywords": [],
   "author": "Claudio Hilário <claudio.hilario@ontech.pt>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/claudiohilario/filetree-nodejs/issues"
+    "url": "https://github.com/claudiohilario/filetree-nodejs-ontech/issues"
   },
-  "homepage": "https://github.com/claudiohilario/filetree-nodejs#readme"
+  "homepage": "https://github.com/claudiohilario/filetree-nodejs-ontech#readme"
 }
