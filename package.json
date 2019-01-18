@@ -2,7 +2,7 @@
   "name": "filetree-nodejs",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,8 +11,8 @@
     "url": "git+https://github.com/claudiohilario/filetree-nodejs.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Claudio Hilário <claudio.hilario@ontech.pt>",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/claudiohilario/filetree-nodejs/issues"
   },
