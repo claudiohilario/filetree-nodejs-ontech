@@ -1,7 +1,7 @@
 # FileTree Ontech
 This npm allows generate file tree, based in specific path.
 
-#Usage example
+# Usage example
 
 ```js
 const getFileTree = require('filetree-ontech');
